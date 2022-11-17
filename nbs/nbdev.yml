@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "upgraded-octo-adventure"
+  site-url: "https://JoyChristine.github.io/upgraded-octo-adventure"
+  description: "Nbdev tutorial"
+  repo-branch: main
+  repo-url: "https://github.com/JoyChristine/upgraded-octo-adventure"
